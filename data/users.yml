@@ -245,6 +245,13 @@ Honk-20773:
   full_name: Malte von dem Hagen
   rir_handle:
   - HONK
+huggi_3303:
+  companies:
+  - as3303
+  country: ch
+  full_name: Marco Huggenberger
+  rir_handle: 
+  - MH20294-RIPE
 IMF2000:
   companies:
   - as29474
