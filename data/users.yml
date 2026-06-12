@@ -63,12 +63,11 @@ Captainahab:
   full_name: Aki Barkarson
   rir_handle:
   - AHB55-RIPE
-Champie:
+Champers:
   companies:
-  - as8677
-  - as41233
   - as35701
   - as29533
+  - as28988
   country: be
   full_name: Bart Champagne
   rir_handle:
@@ -250,7 +249,7 @@ huggi_3303:
   - as3303
   country: ch
   full_name: Marco Huggenberger
-  rir_handle: 
+  rir_handle:
   - MH20294-RIPE
 IMF2000:
   companies:
@@ -2124,11 +2123,11 @@ techwolf12:
   rir_handle:
     - CDDL1-RIPE
 Michael_wd6:
-  companies: 
+  companies:
     - as20495
   country: nl
   full_name: Michaël Jonkers
-  rir_handle: 
+  rir_handle:
     - MJ84126-RIPE
 Cynthia:
   companies:
